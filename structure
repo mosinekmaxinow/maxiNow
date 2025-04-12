@@ -1,0 +1,13 @@
+test_generator/
+│
+├── app.py       
+├── config.py              
+├── requirements.txt      
+├── static/
+│   ├── css/              
+│   └── js/               
+├── templates/              
+│   ├── auth/           
+│   ├── admin/             
+│   └── layouts/            
+└── migrations/  
